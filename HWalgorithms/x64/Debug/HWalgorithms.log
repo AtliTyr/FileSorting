@@ -1,0 +1,3 @@
+﻿  HWalgorithms.cpp
+C:\Users\ACER\Desktop\Projs\HWalgorithms\HWalgorithms\HWalgorithms.cpp(14,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  HWalgorithms.vcxproj -> C:\Users\ACER\Desktop\Projs\HWalgorithms\x64\Debug\HWalgorithms.exe
